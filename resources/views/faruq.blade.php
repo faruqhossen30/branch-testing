@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>This blade file is created by faruq branch </p>
+    <p>This lile is writen from minhaz branch 10.34 am </p>
 </body>
 </html>
