@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>This blade file is created by mihaz</p>
+    <p>This lile is writen from minhaz branch </p>
 </body>
 </html>
